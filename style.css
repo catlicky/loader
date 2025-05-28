@@ -244,6 +244,7 @@ h2 {
     transform: translateX(100%);
 }
 
+
 .download-button:active {
     transform: translateY(0);
 }
